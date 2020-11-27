@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepochart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-11-27T18:40:22.070090023Z"
+    description: A Helm chart for Kubernetes
+    digest: c009749d6d5766fb031e1f32654ef3a2912833b88cdc76d65dbe873a8ad52806
+    name: gitrepochart
+    type: application
+    urls:
+    - gitrepochart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-27T18:40:22.069361562Z"
